@@ -1,0 +1,23 @@
+{
+  "id": "1545388",
+  "name": "search",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356876",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6874596",
+      "name": "圆形打勾",
+      "font_class": "yuanxingdagou",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    }
+  ]
+}

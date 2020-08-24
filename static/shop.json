@@ -1,0 +1,26 @@
+{
+  "res":[
+  {
+    "id":"1",
+    "businessLogo":"http://gw2.alicdn.com/tfscom/tuitui/TB1OLjvMVXXXXcaaXXXXXXXXXXX",
+    "businessName":"商家名称1111",
+    "commodityImg":"http://img.alicdn.com/tfscom/i1/28306811/TB2FK.jbTJ_SKJjSZPiXXb3LpXa_!!28306811.jpg_280x380xz.jpg",
+    "commodityName":"秋冬甜美港风CHIC超潮独角兽贴布刺绣流苏宽松拼色麂皮短外套开衫",
+    "commodityColor":"墨绿色",
+    "commoditySize":"L115-105",
+    "commodityPrice":"29.9",
+    "num":1
+  },
+  {
+    "id":"2",
+    "businessLogo":"http://img.alicdn.com/imgextra/i4/687132834/TB2p6EMyxtmpuFjSZFqXXbHFpXa_!!687132834-0-beehive-scenes.jpg",
+    "businessName":"商家名称2222",
+    "commodityImg":"http://img.alicdn.com/tfscom/i1/28306811/TB2FK.jbTJ_SKJjSZPiXXb3LpXa_!!28306811.jpg_280x380xz.jpg",
+    "commodityName":"13PLUS独立自制纯棉高腰文艺抽绳流苏民族蓝色连衣裙",
+    "commodityColor":"绿色",
+    "commoditySize":"L115-105",
+    "commodityPrice":"30.9",
+    "num":1
+  }
+  ]
+}
